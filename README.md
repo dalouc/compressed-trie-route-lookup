@@ -73,4 +73,4 @@ make clean
 
 ## Authors
 
-[Noel Andolz Aguado](https://github.com/nooelanag) y [Daniel Lozano Uceda](https://github.com/DanielVegetto)
+[Noel Andolz Aguado](https://github.com/nooelanag) and [Daniel Lozano Uceda](https://github.com/DanielVegetto)
